@@ -1,6 +1,6 @@
 # google_photos_ui
 
-screenshots/mobileAppimage.png
+https://github.com/jaikishore-dev/GooglePhotosClone/blob/main/screenshots/mobileAppimage.png
 
 ## Getting Started
 
