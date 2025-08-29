@@ -1,6 +1,6 @@
 # google_photos_ui
 
-my app makes crores revenue , Thanks!!!
+screenshots/mobileAppimage.png
 
 ## Getting Started
 
